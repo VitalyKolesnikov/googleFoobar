@@ -1,6 +1,6 @@
-package level1;
+package org.example;
 
-public class Solution {
+public class Task11 {
     public static String solution(String x) {
         char[] arr = x.toCharArray();
 

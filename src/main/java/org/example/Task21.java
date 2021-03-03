@@ -1,6 +1,6 @@
-package level2.task1;
+package org.example;
 
-public class Solution {
+public class Task21 {
     public static String solution(long x, long y) {
 
         long counter = 0;
